@@ -17,3 +17,11 @@ Now that we have understood what the BVAR is, let us jump into the equations and
 ## The final distribution plots for the coeffecients after training the dataset.
 We ran our model over two Markov Chains (similar to epochs), the dotted curves show the results after the first chain and the solid curves show final results after the second chain.
 ![image](https://github.com/lahiripratik/Imact-of-Oil-Prices-Shocks-on-Exchange-Rates/assets/84749230/c23f2bfc-10d7-472f-bf30-46cd63f58810)
+
+## The correlations after training the model. 
+The correlations actually talk about how much of the deviations in the value of a particular variable are explained by the other variable. For each dependant variable, we can see the impact of 24 other independant variables on it, and their impact. The farther it is from the 0 value, the more significant its impact was found to be.
+
+![image](https://github.com/lahiripratik/Imact-of-Oil-Prices-Shocks-on-Exchange-Rates/assets/84749230/5a6abc92-56f2-457c-827d-aca4e522c08a)
+
+## Finally running the model over the testing data with the final state of the coefeccient distributions.
+
