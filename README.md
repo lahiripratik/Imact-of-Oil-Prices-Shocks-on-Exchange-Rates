@@ -25,3 +25,6 @@ The correlations actually talk about how much of the deviations in the value of 
 
 ## Finally running the model over the testing data with the final state of the coefeccient distributions.
 
+![image](https://github.com/lahiripratik/Imact-of-Oil-Prices-Shocks-on-Exchange-Rates/assets/84749230/1eff10f4-82a9-4290-9b53-40462dc0e03b)
+
+
