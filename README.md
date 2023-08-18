@@ -1,4 +1,7 @@
-# Imact-of-Oil-Prices-Shocks-on-Exchange-Rates
+# Impact of Oil Prices Shocks on Exchange Rates
+
+In this project, I attempted to study multivariate time series analysis using Bayesian inference. 
+I have made an attempt to explain the BVAR model employed in this study right from scratch below.
 
 ![Projects-5](https://github.com/lahiripratik/Imact-of-Oil-Prices-Shocks-on-Exchange-Rates/assets/84749230/ed29bfd9-0ffa-4f49-a2fc-d3385c2b2a2f)
 
