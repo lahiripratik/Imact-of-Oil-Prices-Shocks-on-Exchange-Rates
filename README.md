@@ -13,3 +13,7 @@ Now that we have understood what the BVAR is, let us jump into the equations and
 ## The logic and math involved behind training the model
 
 ![Projects-7](https://github.com/lahiripratik/Imact-of-Oil-Prices-Shocks-on-Exchange-Rates/assets/84749230/70f3936a-70b0-4ae7-b24a-f14d7f5b9c39)
+
+## The final distribution plots for the coeffecients after training the dataset.
+We ran our model over two Markov Chains (similar to epochs), the dotted curves show the results after the first chain and the solid curves show final results after the second chain.
+![image](https://github.com/lahiripratik/Imact-of-Oil-Prices-Shocks-on-Exchange-Rates/assets/84749230/c23f2bfc-10d7-472f-bf30-46cd63f58810)
