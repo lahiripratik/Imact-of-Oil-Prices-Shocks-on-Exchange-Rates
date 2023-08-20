@@ -27,3 +27,6 @@ The correlations actually talk about how much of the deviations in the value of 
 
 ![image](https://github.com/lahiripratik/Imact-of-Oil-Prices-Shocks-on-Exchange-Rates/assets/84749230/3a171758-b5b5-478b-9a68-0ef772a1ddcd)
 
+## Results
+<img width="495" alt="Screenshot 2023-08-20 at 9 21 45 PM" src="https://github.com/lahiripratik/Imact-of-Oil-Prices-Shocks-on-Exchange-Rates/assets/84749230/2c282e4c-cb75-4086-bb1f-d3ff86cd2d6c">
+
